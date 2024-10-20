@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Geo.html",
+    "href": "Geo.html",
+    "title": "Geospatial Data",
+    "section": "",
+    "text": "All of my career so far has involved me working with spatial data: be it in mining or conservation.\n|| ||\nHere’s loads of beautiful maps and spaital analytics.\nThis is one of my USPs"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a Quarto website which acts as my portfolio.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

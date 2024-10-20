@@ -10,7 +10,7 @@ format:
     code-tools: false
     fig-cap: true
     callout-icon: false
-    self-contained: true
+   
 ---
 
 This is a Quarto website which acts as my portfolio.
