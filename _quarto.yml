@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "Portfolio"
   navbar:
@@ -11,10 +11,13 @@ website:
         text: Home
       - href: Geo.qmd
         text: Geospatial
+      - href: about.qmd
+        text: About
         
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "&copy;2024, Harry Gray"
+    background: "#f68c29"
            
 
 format:

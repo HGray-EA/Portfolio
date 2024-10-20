@@ -1,9 +1,34 @@
 ---
-title: "About"
+title: "Harry Gray"
+image: P1010023.JPG
+description: "Data Specialist \n harry.c.gray@gmail.com"
+about:
+  template: trestles
+  image: P1010023.JPG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/HGray-EA
+ 
+order: 1
 ---
 
-About this site
+Current data specialist working for the Environment Agency. I have a rich background in earth sciences and conservation science. I started 
 
-```{r}
-1 + 1
-```
+I am formally educated in statistics, data management and machine learning and self-taught in GenAI. 
+
+I enjoy improving systems, creating beautiful data visualisations that have an immediate impact.
+
+## Education
+
+MSc., University of Birmingham - 2021 (Environmental Science)
+
+BSc., University of Bristol - 2017 (Earth Science)
+
+## Experience
+
+Data & Evidence Technical Specialist - Environment Agency (2023)
+
+Consultant Hydrogeologist - AECOM (2021)
+
+Project Exploration Geologist - Ardea Resources (2018)n
