@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio"
+  navbar:
+    background: "#f68c28"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Geo.qmd
+        text: Geospatial
+        
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy;2024, Harry Gray"
+           
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
